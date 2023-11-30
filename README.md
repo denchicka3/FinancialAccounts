@@ -1,6 +1,6 @@
 # Financial accounts
 
-** What the project does **
+**What the project does**
 
 >This script will allow you to train future accounting professionals.
 It allows you to test your knowledge in the field of accounting. Here a future specialist can practice and repeat his knowledge on the topics "Accounts".
